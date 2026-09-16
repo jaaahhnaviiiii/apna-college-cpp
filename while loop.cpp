@@ -14,7 +14,7 @@ int main()
     while (count <= n)
     {
         cout << count << '\n';
-        count++; // comment this out to pro=int infinite loop. DO NOT TRY. sab band ho jayega and storage full ho jayega.
+        count++; // comment this out to print infinite loop. DO NOT TRY. sab band ho jayega and storage full ho jayega.
     }
     return 0;
 }
